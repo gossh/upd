@@ -4,8 +4,6 @@
     <item>
       <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://gossr.net/down/ShadowsocksG-win-1.3.2.zip" filesize="397252"></media:content>
       <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://gossr.net/down/ShadowsocksG-win-dotnet4.0-1.3.2.zip" filesize="397252"></media:content>
-      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="http://www.mediafire.com/download/3n4cum20pkbmibc/Shadowsocks-win-3.0.zip" filesize="397252"></media:content>
-      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="http://www.mediafire.com/download/3n4cum20pkbmibc/Shadowsocks-win-dotnet4.0-3.0.zip" filesize="397252"></media:content>
     </item>
   </channel>
 </rss>
