@@ -4,7 +4,7 @@
     <item>
       <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://gossh.net/down/ShadowsocksG-win-1.3.2.zip" filesize="397252"></media:content>
       <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://gossh.net/down/ShadowsocksG-win-dotnet4.0-1.3.2.zip" filesize="397252"></media:content>
-      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" host="https://gossh.net" filesize="397252"></media:content>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" host="https://gossh.net" hostl="http://xcwanghua.com" filesize="397252"></media:content>
     </item>
   </channel>
 </rss>
