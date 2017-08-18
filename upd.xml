@@ -2,8 +2,8 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:files="https://sourceforge.net/api/files.rdf#" xmlns:media="http://video.search.yahoo.com/mrss/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:sf="https://sourceforge.net/api/sfelements.rdf#" version="2.0">
   <channel xmlns:files="https://sourceforge.net/api/files.rdf#" xmlns:media="http://video.search.yahoo.com/mrss/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:sf="https://sourceforge.net/api/sfelements.rdf#">
     <item>
-      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://gossh.net/down/ShadowsocksG-win-1.3.4.zip" filesize="397252"></media:content>
-      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://gossh.net/down/ShadowsocksG-win-dotnet4.0-1.3.4.zip" filesize="397252"></media:content>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://gossh.net/down/ShadowsocksG-win-2.0.0.zip" filesize="397252"></media:content>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://gossh.net/down/ShadowsocksG-win-dotnet4.0-2.0.0.zip" filesize="397252"></media:content>
       <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" host="https://gossh.net" hostl="http://123.207.14.200" filesize="397252"></media:content>
     </item>
   </channel>
