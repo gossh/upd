@@ -4,7 +4,7 @@
     <item>
       <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://gossr.net/down/ShadowsocksG-win-2.0.1.zip" filesize="397252"></media:content>
       <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://gossr.net/down/ShadowsocksG-win-dotnet4.0-2.0.1.zip" filesize="397252"></media:content>
-      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" host="https://gossr.net" hostl="http://168.235.76.242" filesize="397252"></media:content>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" host="https://gossr.net" hostl="http://123.206.127.74" filesize="397252"></media:content>
     </item>
   </channel>
 </rss>
