@@ -489,6 +489,7 @@ install_shadowsocksr(){
     install
     install_cleanup
 	uninstall_shadowsocksr
+	pip install cymysql
 }
 
 # Initialization step
